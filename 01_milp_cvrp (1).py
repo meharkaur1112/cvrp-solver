@@ -64,7 +64,7 @@ import matplotlib.patches as mpatches
 # 1. CONFIGURATION
 # ══════════════════════════════════════════════════════════════════════════════
 
-FILE_PATH     = "data/c101.txt"   # path to Solomon c101.txt
+FILE_PATH     = "c101.txt"   # path to Solomon c101.txt
 NUM_CUSTOMERS = 10                # keep <= 12 for CBC to solve in reasonable time
 NUM_VEHICLES  = 2                 # must satisfy: NUM_VEHICLES * capacity >= total demand
 TIME_LIMIT    = 300               # solver time limit in seconds
