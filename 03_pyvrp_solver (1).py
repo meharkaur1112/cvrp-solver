@@ -56,7 +56,7 @@ from pyvrp.stop import MaxRuntime
 # 1. CONFIGURATION
 # ══════════════════════════════════════════════════════════════════════════════
 
-FILE_PATH     = "data/c101.txt"
+FILE_PATH     = "c101.txt"
 NUM_CUSTOMERS = 25
 NUM_VEHICLES  = 5
 RUNTIME_SEC   = 40    # PyVRP search budget — keeps improving until time is up
