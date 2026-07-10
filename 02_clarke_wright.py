@@ -57,8 +57,8 @@ import matplotlib.patches as mpatches
 # ══════════════════════════════════════════════════════════════════════════════
 
 FILE_PATH     = "c101.txt"
-NUM_CUSTOMERS = 25
-NUM_VEHICLES  = 5     # maximum vehicles available
+NUM_CUSTOMERS = 100
+NUM_VEHICLES  = 10     # maximum vehicles available
 
 
 # ══════════════════════════════════════════════════════════════════════════════
